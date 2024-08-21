@@ -8,7 +8,7 @@ THIS IS FOR EDUCATIONAL PURPOSES ONLY USE AT OWN RISK, ANYTHING YOU DO WITH THIS
 ## Requirements
  - Must be on pc
  - Requires USER token 
- - bairn 
+ - bairn 🧠
 
 
 ## Tutorial
