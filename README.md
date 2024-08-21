@@ -26,3 +26,9 @@ DO NOT RENAME ANY FILE
 run Finger.bat to install stuff then Finger.exe 
 u can start using the tool now    
 read help.txt for support or u can dms me on discord: fg27
+```
+## Support me
+If you appreciate the work I've put into this, feel free to support me via this link: 
+https://me.momo.vn/supportme     
+Any support will help me continue to improve my skills and create more projects in the future. :)
+
