@@ -1,0 +1,22 @@
+HELP-1
+Token format.
+This is how you should put your token in "tokens.txt":
+sampletoken1
+sampletoken2
+.....
+──────────────────────────────────────────────────────────────────────────────
+HELP-2
+[Unauthorized] Error, invalid token.
+Go to your discord account whose token is invalid, then get the token again, if it doesn't work,
+log out and log in your account, or change your password, if it still doesn't work, dms my discord: fg27
+──────────────────────────────────────────────────────────────────────────────
+HELP-3
+If there is problems regarding loading tokens, try these step:
+Delete all tokens in tokens.txt -> run Finger.exe -> paste back your tokens in tokens.txt -> run Finger.exe
+If the problem still persist, contact me
+
+──────────────────────────────────────────────────────────────────────────────
+
+Dm my discord for support: fg27
+
+─────────────────────────────────────────────────

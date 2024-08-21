@@ -1,0 +1,8 @@
+This is where you put your tokens.
+Delete everything and put your tokens in this order:
+Token1
+Token2
+...
+
+**MAKE SURE TO PLACE YOUR CURSOR AT THE END OF THE LAST LINE**
+Remember to save the file too :)
